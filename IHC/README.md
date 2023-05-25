@@ -5,7 +5,7 @@
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
 
-
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heuristica1.png>
 
 
 
