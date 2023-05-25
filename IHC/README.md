@@ -5,6 +5,7 @@
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
 
+
 <img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heuristica1.png>
 
 
@@ -15,6 +16,13 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, port
 
 
 
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heuri2.png>
+
+
+
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heris2.png>
+
 
 
 
@@ -24,6 +32,17 @@ No sistema é importante que o usuário tenha liberdade para realizar ações qu
 
 
 
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/3.png>
+
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/33.png>
+
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/333.png>
+
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/3333.png>
+
 
 
 
@@ -32,7 +51,11 @@ Não devemos deixar o usuário em dúvida se palavras, situações ou ações di
 
 
 
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/4.png>
 
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/44.png>
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/444.png>
 
 
 5 – Prevenção de erros
@@ -40,7 +63,7 @@ Essa heurística foca em criar uma plataforma que busca prevenir que problemas o
 
 
 
-
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heuri5.png>
 
 
 
