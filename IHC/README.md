@@ -64,9 +64,9 @@ reconhecimento cérebro é ótimo em reconhecer padrões e na medida em que obje
 
 8 - Estética e design minimalista
 <br>
-<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/8.png>
+<img src = https://github.com/alicearocha/BERTOTI/blob/main/IHC/Img/8.jpg>
 <br>
-<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/88.png>
+<img src = https://github.com/alicearocha/BERTOTI/blob/main/IHC/Img/88.jpg>
 <br>
 <br>
 
