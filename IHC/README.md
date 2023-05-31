@@ -13,6 +13,8 @@ O sistema deve ter a mesma linguagem que seu usuário utiliza no dia a dia, port
 <br>
 <img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heuri2.png>
 <br>
+<br>
+Erro sem coerencia com a vida real:
 <img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/IHC/Img/heris2.png>
 <br>
 <br>
