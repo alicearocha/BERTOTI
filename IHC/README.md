@@ -59,7 +59,7 @@ reconhecimento cérebro é ótimo em reconhecer padrões e na medida em que obje
 
 7 - Eficiência e flexibilidade de uso
 <br>
-<https://github.com/alicearocha/BERTOTI/blob/main/IHC/Img/7.mp4>
+<https://github.dev/alicearocha/BERTOTI/tree/main>
 <br>
 
 8 - Estética e design minimalista
