@@ -27,3 +27,5 @@ Escolha da priorização de entregas. Explicação: tivemos que escolher entre e
 Tivemos que ponderar entre usar o código cru para a interface gráfica ou o uso do Swing. Explicação: Escolhemos usar o Swing pela dificuldade que o grupo teve com o uso da linguagem + tempo de criação disponível para o projeto + ponderando sobre a vida útil que o projeto teria.
 
 ATIVIDADE 4 - DIAGRAMA DE CLASSES UML
+
+<img src = https://raw.githubusercontent.com/alicearocha/BERTOTI/main/Engenharia-de-Software-I/imagens/uml_sorvetia.png>
