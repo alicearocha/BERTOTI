@@ -25,4 +25,5 @@ TRADE-OFFS NA API:
 
 Escolha da priorização de entregas. Explicação: tivemos que escolher entre entregar toda a parte de cadastramento e armazenamento dos dados dos alunos e funcionalidade das entregas das atividades e depois a parte de edição dos dados dos alunos e das atividades, ou escolher entre ter a parte do cadastramento e armazenamentos dos dados dos alunos junto a parte de edição desses dados e só depois a funcionalidade das entregas. Escolhemos a primeira opção por estar mais alinhada com as requisições do cliente.
 Tivemos que ponderar entre usar o código cru para a interface gráfica ou o uso do Swing. Explicação: Escolhemos usar o Swing pela dificuldade que o grupo teve com o uso da linguagem + tempo de criação disponível para o projeto + ponderando sobre a vida útil que o projeto teria.
+
 ATIVIDADE 4 - DIAGRAMA DE CLASSES UML
